@@ -1,4 +1,7 @@
 node_modules
+<<<<<<< HEAD
 .gradle
 dist/
 
+=======
+>>>>>>> 2660b73c66d20d5bc22ba7557ce4cc347af82bfa
